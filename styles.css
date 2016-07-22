@@ -1,3 +1,4 @@
+/*Task 1*/
 .block {
     display: inline-block;
     border: 1px solid red;
@@ -5,11 +6,13 @@
     list-style-type: none;
 }
 
+/*Task 2*/
 .inline {
     display: block;
     border: 1px dashed blue;
 }
 
+/*Task 3*/
 .n-type section:nth-of-type(even) {
     border: 1px solid pink;
 }
